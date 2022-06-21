@@ -1,6 +1,6 @@
 import './App.css';
-import Technologies from "./Technologies";
-import Header from './Header';
+import Technologies from "./Technologies/Technologies";
+import Header from './Header/Header';
 
 function App() {
   return (
